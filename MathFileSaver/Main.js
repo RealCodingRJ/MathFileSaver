@@ -6,7 +6,7 @@ const text2 =
   `${randomNum1} + ${randomNum2} = ${randomNum1 + randomNum2} ` + "\n" + "\n";
 const checkMark = "\u2713 ";
 
-fs.appendFile("./Main.txt", checkMark + " " + text2, (err) => {
+fs.appendFile("./Main.txt", checkMark + "Checked: " + text2, (err) => {
   if (err) {
     console.log(err);
   } else {
