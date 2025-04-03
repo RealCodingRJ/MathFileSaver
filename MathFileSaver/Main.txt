@@ -1,4 +1,2 @@
-✓ Checked: 9 + 4 = 13 
-
-✓ Checked: 5 + 2 = 7 
+✓  Checked: 6 + 5 = 11 
 
